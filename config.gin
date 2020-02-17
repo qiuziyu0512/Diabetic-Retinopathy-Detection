@@ -1,0 +1,7 @@
+
+main.tuning = True
+
+main.hparams = {'HP_BS': 8,
+                'HP_LR': 1e-3}
+
+main.num_epoch = 1
