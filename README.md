@@ -40,4 +40,4 @@ main.num_epoch = 1 #epochs you want to run#
 
 ## Authors
 - Cao Shijia, scarlettcao95@gmail.com
-- Zhong Liangyu, @LEGO999
+- Zhong Liangyu, @LEGO999, zhonglyu00@gmail.com
